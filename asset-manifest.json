@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/s01-hw-exams/static/css/main.073c9b0a.css",
-    "main.js": "/s01-hw-exams/static/js/main.b3fcefe2.js",
+    "main.js": "/s01-hw-exams/static/js/main.e9f9632c.js",
     "static/js/787.177e23c2.chunk.js": "/s01-hw-exams/static/js/787.177e23c2.chunk.js",
     "index.html": "/s01-hw-exams/index.html",
     "main.073c9b0a.css.map": "/s01-hw-exams/static/css/main.073c9b0a.css.map",
-    "main.b3fcefe2.js.map": "/s01-hw-exams/static/js/main.b3fcefe2.js.map",
+    "main.e9f9632c.js.map": "/s01-hw-exams/static/js/main.e9f9632c.js.map",
     "787.177e23c2.chunk.js.map": "/s01-hw-exams/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b3fcefe2.js"
+    "static/js/main.e9f9632c.js"
   ]
 }
